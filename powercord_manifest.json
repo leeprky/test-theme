@@ -1,0 +1,8 @@
+{	
+"name": "[THEMENAME]",
+"description": "DESCRIPTION TEST",
+"version": "0.0.1",
+"author": "Discord#1234",
+"license": "MIT",
+"theme": "theme-name.css",
+}
